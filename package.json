@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "emotion": "^10.0.27",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "sirv-cli": "^0.4.4"
   }
 }
